@@ -8,3 +8,5 @@ Protocolo é uma forma padronizada de realizar determinadas ações e formatar d
 
 TCP/IP
 (Transmission Central Protocol/ Internet Protocol )
+
+Todo dispositivo conectado a rede recebe um IP para que possam ser identificados , como se fossem um CEP.
