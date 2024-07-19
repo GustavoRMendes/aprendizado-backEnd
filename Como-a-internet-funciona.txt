@@ -15,3 +15,5 @@ Um pacote é um pequeno segmento de uma mensagem maior de cada pacote, contém d
 O conteúdo do pacote é conhecido como cabeçalho.
 Quando os dados são enviados pela internet, eles primeiro são divididos em pacotes, que depois são traduzidos em bits.
 Os pacotes são encaminhados por vários dispositivos de rede, tais como roteadores e switches.
+Chega em pedaços e o dispositivo receptor monta novamente na ordem correta.
+É um processo extremamente rápido.
