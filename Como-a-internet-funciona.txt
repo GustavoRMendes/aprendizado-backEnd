@@ -13,3 +13,5 @@ DNS -> DOMAIN NAME SYSTEM ("AGENDA ELETRÔNICA")
 
 Um pacote é um pequeno segmento de uma mensagem maior de cada pacote, contém dados quanto informações sobre os mesmos.
 O conteúdo do pacote é conhecido como cabeçalho.
+Quando os dados são enviados pela internet, eles primeiro são divididos em pacotes, que depois são traduzidos em bits.
+Os pacotes são encaminhados por vários dispositivos de rede, tais como roteadores e switches.
