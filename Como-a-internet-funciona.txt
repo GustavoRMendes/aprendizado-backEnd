@@ -20,3 +20,7 @@ Chega em pedaços e o dispositivo receptor monta novamente na ordem correta.
 
   Comutação de pacotes 
     Os roteadores e switches conseguem processar pacotes de forma independente da origem ou do destino. Isso é concebido para que nenhuma conexão única domine a rede.
+
+HTTP E HTTPS
+Para acessar uma página, utilizamos o protocolo http (HyperText Transfer Protocol) que é um conjunto de regras que permitem seu computador trocar informações com um servidor que abriga uma página.
+HTTP -> Define como são requisitadas as páginas da WEB, baseada em texto, o que pode ser alterado ou interceptado. Feito para comunicação e não a privacidade.
