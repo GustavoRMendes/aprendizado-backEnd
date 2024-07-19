@@ -1,13 +1,8 @@
 Como a internet funciona?
 
-O que é a Internet? A internet é uma rede global de computadores interconectados que permite a troca de informações e utilização de diversos serviços.
-
-É feita de cabos que passam por debaixo da terra(mar), e que conectam casas, países e continentes.
-
+O que é a Internet? A internet é uma rede global de computadores interconectados que permite a troca de informações e utilização de diversos serviços. É feita de cabos que passam por debaixo da terra(mar), e que conectam casas, países e continentes.
+-------------------------------------------------------------------------
+TCP/IP (Transmission Central Protocol/ Internet Protocol )
 Protocolo é uma forma padronizada de realizar determinadas ações e formatar dados para que dois ou mais dispositivos sejam capaz de ser comunicar entre si.
-
-TCP/IP
-(Transmission Central Protocol/ Internet Protocol )
-
 Todo dispositivo conectado a rede recebe um IP para que possam ser identificados , como se fossem um CEP.
 Cada Página na internet possui um IP, porém seria difícil memorizar o IP de cada página, por isso eles tem endereços memoráveis, ou seja, nomes.
