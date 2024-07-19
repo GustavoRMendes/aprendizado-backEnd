@@ -11,3 +11,5 @@ ISP -> PROVEDOR DE Internet
 PROTOCOLO -> CONJUNTO DE REGRAS, IDENTIFICA CADA DISPOSITIVO E DEPOIS DIVIDE A INFORMAÇÃO EM PACOTES.
 DNS -> DOMAIN NAME SYSTEM ("AGENDA ELETRÔNICA")
 
+Um pacote é um pequeno segmento de uma mensagem maior de cada pacote, contém dados quanto informações sobre os mesmos.
+O conteúdo do pacote é conhecido como cabeçalho.
