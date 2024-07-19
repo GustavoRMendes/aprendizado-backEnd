@@ -9,3 +9,5 @@ Cada Página na internet possui um IP, porém seria difícil memorizar o IP de c
 
 ISP -> PROVEDOR DE Internet
 PROTOCOLO -> CONJUNTO DE REGRAS, IDENTIFICA CADA DISPOSITIVO E DEPOIS DIVIDE A INFORMAÇÃO EM PACOTES.
+DNS -> DOMAIN NAME SYSTEM ("AGENDA ELETRÔNICA")
+
