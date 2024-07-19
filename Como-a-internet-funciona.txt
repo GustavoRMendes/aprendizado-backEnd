@@ -6,3 +6,6 @@ TCP/IP (Transmission Central Protocol/ Internet Protocol )
 Protocolo é uma forma padronizada de realizar determinadas ações e formatar dados para que dois ou mais dispositivos sejam capaz de ser comunicar entre si.
 Todo dispositivo conectado a rede recebe um IP para que possam ser identificados , como se fossem um CEP.
 Cada Página na internet possui um IP, porém seria difícil memorizar o IP de cada página, por isso eles tem endereços memoráveis, ou seja, nomes.
+
+ISP -> PROVEDOR DE Internet
+PROTOCOLO -> CONJUNTO DE REGRAS, IDENTIFICA CADA DISPOSITIVO E DEPOIS DIVIDE A INFORMAÇÃO EM PACOTES.
