@@ -27,3 +27,7 @@ HTTP -> Define como são requisitadas as páginas da WEB, baseada em texto, o qu
 
 HTTPS -> Insere uma camada de proteção na transmissão de dados entre seu computador e servidor. É criptografada a comunicação.
 Também faz a autenticação das páginas.
+
+--------------------------------------------
+Algumas Linguagens Back End
+Python, Java, Ruby, Golang , PHP, C#, Javascript
