@@ -31,3 +31,6 @@ Também faz a autenticação das páginas.
 --------------------------------------------
 Algumas Linguagens Back End
 Python, Java, Ruby, Golang , PHP, C#, Javascript
+
+Frameworks
+Django, Laravel, Ruby on Rails, ExpressJS, Flask
